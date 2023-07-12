@@ -24,18 +24,13 @@ class ProjectPerfTest(HttpUser):
             "Age" : 32,
             "Insurance" : 1
         }
-        self.client.post("http://127.0.0.1:5000/health", json=data, headers=headers)
+        self.client.post("http://127.0.0.1:5000/predict", json=data, headers=headers)
 
-    @task
-    def predict_all(self):
-        # Tester la charge lorsque les utilisateurs effectue des prédiction avec plusieurs lignes en même temps
-        headers = {'Content-Type': 'application/json',"Authorization":"lesecret"}
-        data = {}
-        self.client.get("http://127.0.0.1:5000/health", json=data, headers=headers)
-    
-
-    @task
-    def login(self):
-        pass
+    # @task
+    # def predict_all(self):
+    #     # Tester la charge lorsque les utilisateurs effectue des prédiction avec plusieurs lignes en même temps
+    #     headers = {'Content-Type': 'application/json',"Authorization":"lesecret"}
+    #     data = {}
+    #     self.client.get("http://127.0.0.1:5000/health", json=data, headers=headers)
 
     
