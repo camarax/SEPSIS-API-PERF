@@ -38,4 +38,4 @@ Vous pouvez personnaliser les scénarios de test en modifiant le fichier **'locu
 
 ## Auteurs
 
-Ce projet a été développé par **Aboubacar CAMARA**, **Aaricia DOMINGUEZ** et **Adrien ALVAREZ** dans le cadre du projet annuel de la classe M1IABD de l'école ESGI. Si vous avez des questions, veuillez nous contacter à l'adresse mail **aa-dz@hotmail.com** ou **aboubacar.camara.abk@gmail.com**.
+Ce projet a été développé par **Aboubacar CAMARA**, **Aaricia DOMINGUEZ** et **Adrien ALVAREZ** dans le cadre du projet annuel de la classe M1IABD de l'école ESGI. Si vous avez des questions, veuillez nous contacter à l'adresse mail **aa-dz@hotmail.com**, **aboubacar.camara.abk@gmail.com** ou **adrienalvarezzpro@gmail.com**.
