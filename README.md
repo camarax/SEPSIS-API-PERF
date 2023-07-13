@@ -10,7 +10,7 @@ Pour exécuter les tests de performance, suivez les étapes suivantes :
 2. Assurez-vous d'avoir Python 3.7 ou une version ultérieure installée.
 3. Installez Locust en exécutant la commande suivante :
 ```bash
-pip install locust
+pip install -r requirements.txt
 ```
 
 ## Exécution des tests
@@ -38,4 +38,4 @@ Vous pouvez personnaliser les scénarios de test en modifiant le fichier **'locu
 
 ## Auteurs
 
-Ce projet a été développé par **Aboubacar CAMARA**, **Aaricia DOMINGUEZ** et **Adrien ALVAREZ** dans le cadre du projet annuel de la classe M1IABD de l'école ESGI. Si vous avez des questions, veuillez nous contacter à l'adresse mail **aa-dz@hotmail.com**.
+Ce projet a été développé par **Aboubacar CAMARA**, **Aaricia DOMINGUEZ** et **Adrien ALVAREZ** dans le cadre du projet annuel de la classe M1IABD de l'école ESGI. Si vous avez des questions, veuillez nous contacter à l'adresse mail **aa-dz@hotmail.com** ou **aboubacar.camara.abk@gmail.com**.
